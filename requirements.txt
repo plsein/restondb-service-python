@@ -1,0 +1,6 @@
+dynaconf
+flask
+flask_jwt_extended
+httpx
+logger_tt
+gql[all]
